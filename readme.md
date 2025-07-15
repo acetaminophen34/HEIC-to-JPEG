@@ -84,5 +84,3 @@ python image_tool.py /path/to/folder --convert --rotate 180
 ---
 
 ## 📃 License
-
-MIT License
